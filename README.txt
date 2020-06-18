@@ -1,12 +1,9 @@
-Etude 2 ManyDates.java
-
-Authors: Cedric Stephani, Hugo Baird
+Clone the repository: https://github.com/hugonzb/DateFormat-Validator.git
 
 Compile: javac ManyDates.java
 run: java ManyDates
 
 After running, type input and press enter for each new line required. When all input has been typed, press ctrl-z (when on windows terminal) or ctrl-d (when on drjava or MacOS) to submit the input.
-
 
 Test cases:
 
