@@ -3,7 +3,7 @@ Clone the repository: https://github.com/hugonzb/DateFormat-Validator.git
 Compile: javac ManyDates.java
 run: java ManyDates
 
-After running, type input and press enter for each new line required. When all input has been typed, press ctrl-z (when on windows terminal) or ctrl-d (when on drjava or MacOS) to submit the input.
+After running, type input and press enter for each new line required. When all input has been typed, press ctrl-d (when on windows terminal or drjava) or ctrl-z (when on MacOS) to submit the input.
 
 Example Test cases:
 
